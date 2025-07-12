@@ -1,16 +1,16 @@
-## Hi there 👋
+## Olá, me chamo Jhulia
+[![Discord](https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@mir_elli/)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:jhuliamireli@hotmail.com)
 
-<!--
-**Jhulia-Mirelli/Jhulia-Mirelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Sou estudante de Tecnologia da Informação, atualmente cursando Análise e Desenvolvimento de Sistemas. 
 
-Here are some ideas to get you started:
+- Enquanto estudante, sigo em constante processo de aprendizagem, sempre buscando aprimorar meus conhecimentos e habilidades.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Estas são algumas das linguagens com as quais já tive contato:
+
+## Linguagens
+
+  ![Java](https://img.shields.io/badge/JAVA-000000.svg?style=for-the-badge&logo=OpenJDK&logoColor=white)
+  ![Delphi](https://img.shields.io/badge/Delphi-000000.svg?style=for-the-badge&logo=Delphi&logoColor=white)
+  ![C#](https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=c-sharp&logoColor=white)
+  ![Python](https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=white)
