@@ -17,4 +17,4 @@
   ![Delphi](https://img.shields.io/badge/Delphi-000000.svg?style=for-the-badge&logo=Delphi&logoColor=white)
   ---
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jhulia-Mirelli&langs_count=8&bg_color=000)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jhulia-Mirelli&langs_count=8&bg_color=0000)
