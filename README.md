@@ -14,7 +14,6 @@
   ![Python](https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=white)
   ![C#](https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=c-sharp&logoColor=white)
   ![Java](https://img.shields.io/badge/JAVA-000000.svg?style=for-the-badge&logo=OpenJDK&logoColor=white)
-  ![Delphi](https://img.shields.io/badge/Delphi-000000.svg?style=for-the-badge&logo=Delphi&logoColor=white)
   ---
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jhulia-Mirelli&langs_count=8&bg_color=0000)
